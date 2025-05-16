@@ -4,3 +4,4 @@ corpus is library which is sugar coated on sklearn, with the need instead of re-
 # modules
 1) metrics - this contains metrics like error...
 2) split - this contains methods to split dataset in different ways
+3) nn - this contain methods to make fast neural network
